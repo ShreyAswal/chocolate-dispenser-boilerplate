@@ -22,7 +22,7 @@ var chocolates = [
   'red',
   'green',
   'red',
-  'silver',
+  'silver', 
   'pink',
   'crimson',
   'purple',
